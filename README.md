@@ -2,9 +2,9 @@
 
 A complete SPI (Serial Peripheral Interface) Master Core implemented in Verilog HDL, featuring a WISHBONE rev.B1 bus interface, programmable clock divider, and support for all four SPI communication modes.
 
-**Author:** Jay Hepat | VIT Bhopal University  
-**Domain:** VLSI | Digital Design | RTL Design  
-**Tools:** Quartus Prime | ModelSim / Icarus Verilog | GTKWave
+**Author:** K Hari Prasad Reddy | VIT Bhopal University  
+**Domain:** VLSI | RTL Design  
+**Tools:** Quartus Prime |  Icarus Verilog | GTKWave
 
 ---
 
